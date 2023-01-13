@@ -26,7 +26,6 @@ align-items: center;
   background-color: black;
   color: white;
   border: 1px solid black;
-  clip-path: polygon(0 0, 100% 0, 100% 75vh, 0 100%);
 
 }
 `;

@@ -31,8 +31,8 @@ export default function App() {
       })
 }, [])
 
-  if (loading) return "Loading...";
-  if (error) return "Error!";
+  // if (loading) return "Loading...";
+  // if (error) return "Error!";
    
   return (
     <Fragment> 
