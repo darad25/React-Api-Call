@@ -11,7 +11,6 @@ const App = () => {
     <Routes>
       <Route > 
        <Route path='playerstats' element={<PlayerStats />} />
-       <Route path='playerattributes' element={<PlayerAttributes />} />
       </Route>
     </Routes>
     </div>
