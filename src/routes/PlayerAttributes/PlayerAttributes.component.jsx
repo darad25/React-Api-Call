@@ -46,7 +46,7 @@ export default function App() {
                     Full_Name: { data.name }, 
                     User_Email: { data.email } 
                     </ol> 
-                )) }
+                )) } 
       </PlayerAttributesContain>
       </HeaderBlock>
       </PlayerAttributesContainer>
