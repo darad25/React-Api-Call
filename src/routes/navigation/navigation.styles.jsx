@@ -56,7 +56,7 @@ export const NavLink = styled(Link)`
 
 `;
 
-export const PlayerButton = styled(Button)`
+export const PlayerButton = styled(baseButton)`
    margin-left: auto;
    margin-top: 35px;
    border-radius: 100px;
