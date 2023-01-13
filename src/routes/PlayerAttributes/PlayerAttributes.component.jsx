@@ -26,9 +26,9 @@ export default function App() {
         console.error("Error fetching data: ", error);
         setError(error);
       })
-      .finally(() => {
-        setLoading(false)
-      })
+      // .finally(() => {
+      //   setLoading(false)
+      // })
 }, [])
 
   // if (loading) return "Loading...";
