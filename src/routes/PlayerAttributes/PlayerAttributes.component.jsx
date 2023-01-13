@@ -9,7 +9,7 @@ export default function App() {
   const [error, setError] = useState(null);
 
   useEffect(() => {
-    fetch('https://api.playswoops.com/api/game/player/token/1494/', { method: 'GET',
+    fetch('https://jsonplaceholder.typicode.com/users', { method: 'GET',
     headers: {
       Accept: 'application/json',
     },})
