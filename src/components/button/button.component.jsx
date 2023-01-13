@@ -1,4 +1,4 @@
-import { BaseButton, GoogleSignButton, InvertedButton, ButtonSpinner } from './button.styles';
+import { BaseButton, GoogleSignButton, InvertedButton } from './button.styles';
 
 export const BUTTON_TYPE_CLASSES = {
     base: 'base',
