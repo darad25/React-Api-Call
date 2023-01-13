@@ -10,8 +10,6 @@ const App = () => {
     <div>
     <Routes>
       <Route > 
-      <Route path='/' element={<Navigation />}/> 
-       <Route index element={<Navigation />} />
        <Route path='playerstats' element={<PlayerStats />} />
        <Route path='playerattributes' element={<PlayerAttributes />} />
       </Route>
