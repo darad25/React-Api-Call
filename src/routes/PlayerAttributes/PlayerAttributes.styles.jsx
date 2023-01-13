@@ -3,7 +3,6 @@ import styled from 'styled-components';
 export const PlayerAttributesContainer = styled.div`
 height: 70px;
    width: 100%;    
-background-color: #c71919;
     align-items: center;
     grid-template-columns: repeat(4, 1fr);
     column-gap: 10px;
