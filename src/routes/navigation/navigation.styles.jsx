@@ -61,5 +61,7 @@ export const PlayerButton = styled(Button)`
    margin-top: 35px;
    border-radius: 100px;
    box-sizing: border-box;
+   clip-path: polygon(0 0, 100% 0, 100% 75vh, 0 100%);
+
 }
 `
